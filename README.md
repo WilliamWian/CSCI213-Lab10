@@ -1,5 +1,5 @@
 # Printing Course Information
-*Author: WIlliam Wian*
+###*Author: WIlliam Wian*
 
 This is the Git lab for CSCI 213 Software Development. One class was
 added, CourseInfo.java
